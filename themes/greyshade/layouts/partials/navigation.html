@@ -1,0 +1,9 @@
+{{ partial "custom/navigation.html" }}
+{{ if $.Site.Params.description }}
+<section class="aboutme">
+  <br>
+  <p>
+    {{ $.Site.Params.description }}
+  </p>
+</section>
+{{ end }}

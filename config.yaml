@@ -1,0 +1,19 @@
+baseurl: "https://ts.teamtt.de"
+languageCode: "de"
+title: "ts.teamtt.de News"
+publishdir: "/var/www/ts.teamtt.de/public/"
+# theme: "greyshade"
+
+author:
+  name: "ZwergB"
+  email: "support@biocrafting.net"
+
+params:
+  description: "Die Newsseite für den TeamTT/ Biocrafting-Teamspeak. Wenn du Fragen hast schick einfach eine E-Mail an support@biocrafting.net."
+
+  subscribe_rss: "/index.xml"
+  facebook_user: "biocraftingnet"
+  twitter_user: "biocrafting"
+
+
+# themeColor = "theme-base-09"
