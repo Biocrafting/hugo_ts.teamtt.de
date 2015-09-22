@@ -5,7 +5,7 @@ publishdir: "/var/www/ts.teamtt.de/public/"
 # theme: "greyshade"
 
 author:
-  name: "ZwergB"
+  name: "Biocrafting.net"
   email: "support@biocrafting.net"
 
 params:
