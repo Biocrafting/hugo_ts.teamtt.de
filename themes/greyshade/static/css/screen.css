@@ -1656,8 +1656,8 @@ body {
     margin-right: 70px
 }
 .container .mid-col footer.inner {
-    text-align: center;
-    margin: 0px 70px 0px 40px;
+    text-align: left;
+    margin: 0px 70px 0px 100px;
     width: auto
 }
 .container .mid-col .mid-col-container {
@@ -1665,7 +1665,7 @@ body {
     max-width: 800px
 }
 .container .mid-col .mid-col-container #content {
-    width: 100%
+   /* width: 100%*/
 }
 .container .mid-col .mid-col-container #content article {
     border-top: none;
