@@ -5,6 +5,5 @@ title = "Impressum"
 
 +++
 
-Marcel Spark 
-
+Marcel Spark  
 maze@mzhost.de
