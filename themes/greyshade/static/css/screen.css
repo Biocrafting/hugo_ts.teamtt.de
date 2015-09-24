@@ -16,7 +16,7 @@ body {
     background: #eee;
     color: #666
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     body {
         margin: 0 20px
     }
@@ -84,7 +84,7 @@ article .entry-content video.right {
     width: 1000px;
     margin: 0 auto
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     .inner {
         width: 100%
     }
@@ -112,7 +112,7 @@ article .entry-content video.right {
     border-bottom: 1px solid #ddd;
     line-height: 30px
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     #header {
         height: auto;
         position: relative;
@@ -134,7 +134,7 @@ article .entry-content video.right {
     font-weight: 300;
     font-size: 30px
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     #header h1 {
         float: none
     }
@@ -143,7 +143,7 @@ article .entry-content video.right {
     float: left;
     margin-left: 30px
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     #main-nav {
         float: none;
         margin-left: 0;
@@ -163,7 +163,7 @@ article .entry-content video.right {
     *zoom: 1;
     *display: inline
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     #main-nav>ul>li {
         margin-left: 0;
         margin-right: 50px
@@ -188,7 +188,7 @@ article .entry-content video.right {
 #main-nav>ul>li>a:only-child:after {
     content: ""
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     #main-nav>ul>li>a {
         padding: 18px 0
     }
@@ -210,7 +210,7 @@ article .entry-content video.right {
     -webkit-border-radius: 0;
     border-radius: 0 0 5px 5px
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     #main-nav>ul ul {
         top: 40px
     }
@@ -396,7 +396,7 @@ article .entry-content video.right {
     -webkit-border-radius: 5px;
     border-radius: 5px 0 0 5px
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     #sub-nav {
         position: absolute;
         top: 30px;
@@ -413,7 +413,7 @@ article .entry-content video.right {
     margin-top: 1px;
     position: relative
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     #sub-nav .search {
         float: none;
         margin-top: 15px
@@ -454,7 +454,7 @@ article .entry-content video.right {
     float: left;
     margin-right: 15px
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     #sub-nav .social {
         float: none;
         margin-right: 0
@@ -1829,7 +1829,7 @@ a {
 a:hover {
     color: #2571B8
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1440px) {
     body {
         margin: 0 0
     }
