@@ -1,16 +1,5 @@
 <div class="profilepic">
-	{{ if $.Site.Params.email_md5 }}
-	<a href="{{ .Site.BaseURL }}"><img src='https://filebase.biocrafting.net/generic/logo2_mini.png' alt="Profile Picture" style="width: 160px;" /></a>
-	{{ else }}
-	{{ if $.Site.Author.email }}
-	<script src="{{ .Site.BaseURL }}/js/md5.js"></script>
-	<script type="text/javascript">
-		$(function(){
-			$('.profilepic').append("<img src='https://filebase.biocrafting.net/generic/logo2.png' alt='Profile Picture' style='width: 160px;' />");
-		});
-	</script>
-	{{ end }}
-	{{ end }}
+	<a href="{{ .Site.BaseURL }}"><img src='https://filebase.biocrafting.net/generic/logo2.png' alt="Profile Picture" style="width: 160px;" /></a>
 </div>
 {{ partial "custom/header.html" . }}
 <nav id="main-nav">{{ partial "navigation.html" . }}</nav>
