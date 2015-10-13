@@ -1,13 +1,14 @@
 +++
 date = "2015-09-21T18:52:26+02:00"
-draft = true
+draft = false
 title = "Overview"
 
 +++
 Hier geht es zu den &Uuml;bersichten, die es zum Teamspeak gibt.
 
-# Channel&uuml;bersicht
+<h3>Channel&uuml;bersicht</h3>
+<p>Aufgef&uuml;hrt sind hier die Publicchannel und deren User mit besonderen Rechte. <a href="channel.html">Zur &Uuml;bersicht.</a></p>
+<h3>Rang&uuml;bersicht</h3>
+<p>Aufgef&uuml;hrt sind hier alle Iconr&auml;nge und kleine Beschreibung zu diesen. <a href="ranks.html">Zur &Uuml;bersicht.</a></p>
 
-Aufgef&uuml;hrt sind hier die Publicchannel und deren User mit besonderen Rechte.
-<a href="https://ts.teamtt.de/overview/channel.html">Zur &Uuml;bersicht</a>
 
