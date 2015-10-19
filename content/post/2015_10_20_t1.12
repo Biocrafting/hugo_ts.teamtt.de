@@ -1,0 +1,12 @@
++++
+date = "2015-10-20T01:09:00+01:00"
+draft = false
+title = "Teamspeak 1.12"
+
++++
+Folgende &Auml;nderungen:
+<ol>
+<li><p>Bei der 50. und 100. Verbindung gibt es jetzt eine automatische Nachricht an neue User. </p></li>
+<li><p>Das alte Teamspeak Banner wird wieder verwendet. </li></p>
+<li><p>Neuer Communityrang:<br>
+Als Ergänzung der bestehenden Communityr&auml;nge für die Mitgliedsjahre, gibt es nun den ">Mitgliedsjahre!" Rang, für alle die l&auml;nger als drei Jahre dabei sind.</li></p>
