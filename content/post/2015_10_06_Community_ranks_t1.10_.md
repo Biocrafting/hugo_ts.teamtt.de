@@ -15,3 +15,6 @@ title = "Community Ränge! - T1.10"
 <li>Es gibt R&auml;nge zur Auszeichnung der Mitgliedsjahre (Aktivit&auml;tsjahre). Ab dem zweiten Mitgliedsjahr ist der Spamschutz ausgeschaltet (b_client_ignore_antiflood).</li>
 <li>Der "Alte Elite" Rang ist nun ein Communityrang. Er ist f&uuml;r Leute, die fr&uuml;her eine wichtige Position des Servers inne hatten und diese nicht mehr aus&uuml;ben (z.B. ein fr&uuml;herer Moderator oder VIP). </li>
 <li>Au&szlig;erdem wird es Erkennungsr&auml;nge geben, welche die zur &Uuml;bersichtlichkeit beitragen sollen. Ein Beispiel hierf&uuml;r sind R&auml;nge f&uuml;r einzelne Gameserver.</ol></li>
+<br>
+<strong>Edit</strong> (20.10.2015):
+<p>Der "Veteran" Rang wurde leicht &uuml;berarbeitet. Infos und fortlaufende Aktualisierungen zu finden unter </p> https://ts.teamtt.de/overview/ranks.html
