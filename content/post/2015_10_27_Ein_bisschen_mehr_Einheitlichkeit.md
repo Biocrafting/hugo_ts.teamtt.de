@@ -3,6 +3,8 @@ date = "2015-10-27T21:48:00+01:00"
 draft = false
 title = "Ein bisschen mehr Einheitlichkeit 2.0 "
 
++++
+
 <p>
   Das Serverteam hat sich dazu entschlossen den Teamspeak und alle bisher dazugehörigen Dienste, vom alten Mix "TeamTT/ Biocrafting", in ein alleinstehendes "Biocrafting" umzubennen.
 </p>
