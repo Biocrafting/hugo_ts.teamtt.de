@@ -1,6 +1,6 @@
 baseurl: "https://ts.biocrafting.net"
 languageCode: "de"
-title: "ts.biocrafting.de News"
+title: "ts.biocrafting.net News"
 publishdir: "/var/www/ts.biocrafting.net/public/"
 # theme: "greyshade"
 
