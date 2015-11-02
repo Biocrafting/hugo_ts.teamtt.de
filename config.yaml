@@ -1,7 +1,7 @@
-baseurl: "https://ts.teamtt.de"
+baseurl: "https://ts.biocrafting.net"
 languageCode: "de"
-title: "ts.teamtt.de News"
-publishdir: "/var/www/ts.teamtt.de/public/"
+title: "ts.biocrafting.de News"
+publishdir: "/var/www/ts.biocrafting.net/public/"
 # theme: "greyshade"
 
 author:
