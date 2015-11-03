@@ -5,9 +5,9 @@ title = "Community Ränge! - T1.10"
 
 +++
 <p>Mit dem neuen Update gibt es jetzt neue Servergruppen. Die Servergruppen sind in zwei Kategorien unterteilt:</p>
-<li>Standartgruppen - mit Icons</li>
+<li>Standardgruppen - mit Icons</li>
 <li>Communityr&auml;nge - ohne Icons</li>
-<p>An den <strong> Standardgruppen</strong> wird sich nichts &auml;ndern mit Ausnahme des Ranges "Alte Elite". Dieser ist nun ein Community Rang. Der jetzige goldene Stern steht f&uuml;r den Rang "Veteran" und kann nach einer Aktivit&auml;t von &uuml;ber drei Jahren, ohne negativ aufgefallen zu sein, beantragt werden.</p>
+<p>An den <strong>Standardgruppen</strong> wird sich nichts &auml;ndern mit Ausnahme des Ranges "Alte Elite". Dieser ist nun ein Community Rang. Der jetzige goldene Stern steht f&uuml;r den Rang "Veteran" und kann nach einer Aktivit&auml;t von &uuml;ber drei Jahren, ohne negativ aufgefallen zu sein, beantragt werden.</p>
 <p> <i>Eine &Uuml;bersicht gibt es <a href="https://ts.teamtt.de/overview/ranks.html">hier</a></i>.</p>
 <p>Die <strong> Communityr&auml;nge </strong> sind wesentlich flexibler, hei&szlig;t, dort werden in Zukunft evtl. noch einige hinzukommen. </p>
 <p>Hier das wichtigste: 
