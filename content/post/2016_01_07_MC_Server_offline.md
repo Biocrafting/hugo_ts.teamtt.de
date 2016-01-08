@@ -1,5 +1,5 @@
 +++
-date = "2016-01-7T09:23:00+01:00"
+date = "2016-01-07T09:23:00+01:00"
 draft = false
 title = "Minecraft Server vorerst offline"
 author = "Marcel"
