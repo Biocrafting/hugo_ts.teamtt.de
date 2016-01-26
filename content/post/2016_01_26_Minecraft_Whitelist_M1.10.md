@@ -10,7 +10,7 @@ title = "Der Minecraft-Server und die Whitelist M1.1"
 <p>Leider m&uuml;ssen wir, um euch und eure Errungenschaften zu sch&uuml;tzen, dieses Mal eine Whitelist einf&uuml;hren.</p>
 <p>Um auf die Whitelist zu kommen m&uuml;sst ihr nur folgendes Formular ausf&uuml;llen:</p>
 <a href="http://game.mzhost.de/whitelist">http://game.mzhost.de/whitelist</a>
-<p>Darin brauchen wir lediglich euren Namen, euren Minecraft-Namen und eure Eindeutige TS? ID. Diese findet ihr, wenn ihr im Teamspeak STRG+I dr&uumk;ckt. Ihr k&ouml;nnt auch eure E-Mail oder einen kurzen Kommentar hinterlassen, falls ihr noch Fragen oder Anmerkungen habt. Das wird dann direkt an alle Minecraft Mods &uuml;bermittelt, die dann pr&uuml;fen, ob ihr bekannt seid und Whitelisten euch. F&uuml;r bekannte Member (Stammi+), sollte dies unproblematisch laufen, aber auch "normale" k&ouml;nnen gewhitelisted werden.</p>
+<p>Darin brauchen wir lediglich euren Namen, euren Minecraft-Namen und eure Eindeutige TS? ID. Diese findet ihr, wenn ihr im Teamspeak STRG+I dr&uuml;ckt. Ihr k&ouml;nnt auch eure E-Mail oder einen kurzen Kommentar hinterlassen, falls ihr noch Fragen oder Anmerkungen habt. Das wird dann direkt an alle Minecraft Mods &uuml;bermittelt, die dann pr&uuml;fen, ob ihr bekannt seid und Whitelisten euch. F&uuml;r bekannte Member (Stammi+), sollte dies unproblematisch laufen, aber auch "normale" k&ouml;nnen gewhitelisted werden.</p>
 
 <p>Also dann: Viel Spass beim Zocken und wir sehen uns in alter Frische auf mc.biocrafting.de (alternativ mc.teamtt.net)</p>
 
