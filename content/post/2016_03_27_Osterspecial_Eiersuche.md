@@ -14,3 +14,5 @@ Frohes Suchen!</p>
 <p>Kleiner Tipp, euch wird empfohlen, den Standard Teamspeak Skin zu verwenden, ansonsten könnte es nicht möglich sein, die Lösung zu finden.</p>
 
 <p>Bei Fragen wendet euch am besten an "Maze". </p>
+
+<p><strong>Edit:</strong>Aufgrund des hohen Schwierigkeitsgrades und der misslungenen Beta Tests, wurden einige Tipps versteckt. Außerdem bekommt ihr kleinen Hinweis falls ihr völlig feststeckt (aber ein wirklich kleinen). Wenn ihr nicht weiterkommt, probiert es am nächsten Tag mit einem klarem Kopf weiter! 
