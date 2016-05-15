@@ -18,6 +18,7 @@
 					{{ if ne .Params.sharing "false" }}
 						{{ partial "post/sharing.html" . }}
 					{{ end }}
+                    {{ partial "isso.html" . }}
 					{{ if and $.Site.Params.disqus_short_name (ne .Params.comments "false") }}
 					<section id="comment">
 					    <h1 class="title">Comments</h1>
