@@ -11,6 +11,6 @@ Hier geht es zu den &Uuml;bersichten, die es zum Teamspeak gibt.
 <h3>Rang &Uuml;bersicht</h3>
 <p>Aufgef&uuml;hrt sind hier alle Icon R&auml;nge und kleine Beschreibungen zu diesen. Falls euch die Beschreibungen zu ungenau sind oder irgendetwas unklar erscheint, fragt einfach den n&auml;chsten Moderator oder Aufseher. <a href="ranks.html">Zur &Uuml;bersicht. </a></p>
 <h3>Community-Rang &Uuml;bersicht</h3>
-<p>Aufgef&uuml;hrt sind hier alle Community (Icon lose) R&auml;nge und kleine Beschreibungen zu diesen. Auch hier gilt, ist etwas unklar fragt einen Moderator oder Aufseher um Hilfe. <a href="commranks.html">Zur &Uuml;bersicht.</a></p>
+<p>Aufgef&uuml;hrt sind hier alle Community R&auml;nge (die ohne Icons) und kleine Beschreibungen zu diesen. Auch hier gilt, ist etwas unklar fragt einen Moderator oder Aufseher um Hilfe. <a href="commranks.html">Zur &Uuml;bersicht.</a></p>
 
 
