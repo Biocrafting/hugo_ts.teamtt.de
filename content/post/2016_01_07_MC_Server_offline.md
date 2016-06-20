@@ -5,7 +5,7 @@ title = "Minecraft Server vorerst offline"
 author = "Marcel"
 
 +++
-Der Minecraft Server mc.biocrafting.net (mc.teamtt.de) ist vorerst offline. Aufgrund vieler Zerstörungsversuche, und fehlenden Moderatoren wird der MC Server auf weiteres offline bleiben und demnächst mit einer Whitelist wieder online gestellt. 
+Der Minecraft Server mc.biocrafting.net (mc.teamtt.de) ist vorerst offline. Aufgrund vieler Zerstörungsversuche und fehlender Moderatoren wird der MC Server, bis auf Weiteres, offline bleiben und demnächst mit einer Whitelist wieder online gestellt. 
 Weitere Informationen folgen...
 
 <strong>Edit</strong> (26.01.16):<br>
