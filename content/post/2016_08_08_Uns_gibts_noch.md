@@ -1,6 +1,6 @@
 +++
 date = "2016-08-08T23:21:01+02:00"
-draft = false
+draft = true
 title = "Uns gibt's noch!"
 
 +++
@@ -25,6 +25,7 @@ Euer [Serverteam] (https://storage.biocrafting.net/f/4b462aff62/)
 
 
 <div style="text-align:center">
-<img width="500" "height="500" src="https://i.imgflip.com/hxidc.jpg">
-</img></div>
+<img width="500" "height="500" src="https://i.imgflip.com/hxidc.jpg"></img>
+<p><small>Quelle: imgflip.com</small></p>
+</div>
 
