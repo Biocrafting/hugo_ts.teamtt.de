@@ -1,7 +1,7 @@
 +++
 date = "2016-08-08T23:21:01+02:00"
 draft = false
-title = "Uns gibt's noch!!"
+title = "Uns gibt's noch"
 
 +++
 
@@ -17,7 +17,7 @@ Hier eine kleine Übersicht aller regelmäßigen Events:
 *Weihnachten -> Themenwechsel und ggf. Event
 
 Lasst uns wissen, falls euch noch was einfällt. Hier möchte ich noch mal an die Kommentarfunktion erinnern!
-Euer <a href=“https://storage.biocrafting.net/f/4b462aff62/“>Sicherheitsstufe</a>
+Euer <a href=“https://storage.biocrafting.net/f/4b462aff62/“>Serverteam</a>
 
 <div style="text-align:center">
 <video width="500" "height="500" loop autoplay >
