@@ -11,10 +11,10 @@ Außerdem gibt es Überlegungen, die benötigte <a href="https://www.teamspeak-i
 
 Um dann noch etwas die sommerlichen Gefühle aufblühen zu lassen, wird derzeit ein kleines Sommerevent geplant, welches dann ca. am 20.08 bekannt gegeben wird.
 Hier eine kleine Übersicht aller regelmäßigen Events: 
-*Osterevent -> Rätsel (etwas zum Suchen)
-*Sommeraktion -> kleine Aktionen wie z.B. Spiele
-*Halloween -> Themenwechsel (Icon und Co.)
-*Weihnachten -> Themenwechsel und ggf. Event
+* Osterevent -> Rätsel (etwas zum Suchen)
+* Sommeraktion -> kleine Aktionen wie z.B. Spiele
+* Halloween -> Themenwechsel (Icon und Co.)
+* Weihnachten -> Themenwechsel und ggf. Event
 
 Lasst uns wissen, falls euch noch was einfällt. Hier möchte ich noch mal an die Kommentarfunktion erinnern!
 Euer <a href=“https://storage.biocrafting.net/f/4b462aff62/“>Serverteam</a>
