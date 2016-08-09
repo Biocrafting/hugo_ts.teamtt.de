@@ -9,4 +9,4 @@ Der Minecraft Server mc.biocrafting.net (mc.teamtt.de) ist vorerst offline. Aufg
 Weitere Informationen folgen...
 
 <strong>Edit</strong> (26.01.16):<br>
-Server inzwischen wieder online. Informationen dazu im <a href="https://ts.biocrafting.net/post/2016_01_26_Minecraft_Whitelist_M1.10/">Post vom 26.01.16 </a>
+Server inzwischen wieder online. Informationen dazu im <a href="https://www.biocrafting.net/post/2016_01_26_Minecraft_Whitelist_M1.10/">Post vom 26.01.16 </a>
