@@ -4,12 +4,6 @@ draft = false
 title = "Impressum"
 
 +++
-+++
-date = "2015-09-22T22:57:45+02:00"
-draft = false
-title = "Impressum"
-
-+++
 
 <h2>Seitenbetreiber:</h2>
 <p>Marcel Spark<br />
