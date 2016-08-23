@@ -15,9 +15,9 @@
 				<div id="content" class="inner">
 					<div itemscope itemtype="http://schema.org/Blog">
 					<article class="post" itemscope itemtype="http://schema.org/BlogPosting">{{ partial "article.html" . }}</article>
-					{{ if ne .Params.sharing "false" }}
+<!-- 					{{ if ne .Params.sharing "false" }}
 						{{ partial "post/sharing.html" . }}
-					{{ end }}
+					{{ end }} -->
                     {{ if eq .Section "post" }}
                         {{ partial "isso.html" . }}
 					{{ end }}
