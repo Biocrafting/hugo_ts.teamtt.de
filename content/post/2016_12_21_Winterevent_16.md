@@ -9,6 +9,7 @@ Ho Ho Ho liebe Community. Es ist wieder diese Zeit im Jahr, voller Kekse, gutem 
 
 <br>
 Dieses Jahr wird es seit langem wieder ein kleines Weihnachtsevent geben, welches vom 21.12 bis zum 27.12 läuft. Zwischen allen Teilnehmern werden 4 Gewinner ausgewählt, welche sich im neuen Jahr, mit Mazes Rückkehr aus den Ferien, an einer verspäteten Bescherung erfreuen können.
+
 Der Weihnachtsmann wollte persönlich vorbeischauen, allerdings hat er sich wohl in unserer umfangreichen Channelauswahl verlaufen. Es sieht so aus als ob ihr ihn selber finden müsstet wenn ihr die Chance auf Geschenke haben wollt.
 
 Euer BC Team.
@@ -18,4 +19,5 @@ Euer BC Team.
 *Autor: Gumbario*
 
 **Entwicklerteam:** Maze, Snake, Lygion
+
 **Betatester:** Kaba, Crown
