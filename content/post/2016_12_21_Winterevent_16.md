@@ -30,13 +30,15 @@ Unter denen, die es geschafft haben alle Rätsel zu lösen, wurden 4 zufällige 
 2. Suchl219: Mountain 
 3. DannyStyle: Dead Space2
 4. Lyrox: Zugang zum Weihnachtsspastis Channel
+
 * Hier erhält der Gewinner das inzwischen geänderte Passwort von dem im Event genutzen Weihnachtschannel. Er  bekommt zusätzlich den Channelrang Operator und kann das Passwort nach belieben Freunden geben. Der Channel bleibt bis zum nächstem Event bestehen. Solange kann der Gewinner den Channel als ein privaten permanenten Channel nutzen*
 
 Des Weiteren gab es eine Losaktion, bei der ihr Saints Row Third gewinnen konntet.
 Das Gewinnerlos hat die Nummer 21241, herzlichen Glückwunsch!
 
+*Die Gewinne sollten selbständig bei "Maze" abgeholt werden.*
 
-
+**Anleitung:**
 Für all diejenigen, die an einem der Rätsel verzweifelt sind, hier die Schritt für Schritt Anleitung:
 
 1. Zu aller erst musstet ihr den auf den Channel Weihnachtsspastis aufmerksam werden
@@ -53,7 +55,7 @@ Eine Liste der Gewinner: https://paste.biocrafting.net/?cc5a339620de687a#aAn4hCG
 
 <br>
 
-*Autor der Auswertung: Crown *
+*Autor der Auswertung: Crown*
 
 **Entwicklerteam:** Maze, Snake, Lygion
 
