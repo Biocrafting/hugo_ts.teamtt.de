@@ -33,12 +33,13 @@ Unter denen, die es geschafft haben alle Rätsel zu lösen, wurden 4 zufällige 
 
 * Hier erhält der Gewinner das inzwischen geänderte Passwort von dem im Event genutzen Weihnachtschannel. Er  bekommt zusätzlich den Channelrang Operator und kann das Passwort nach belieben Freunden geben. Der Channel bleibt bis zum nächstem Event bestehen. Solange kann der Gewinner den Channel als ein privaten permanenten Channel nutzen*
 
-Des Weiteren gab es eine Losaktion, bei der ihr Saints Row Third gewinnen konntet.
+Des Weiteren gab es eine **Losaktion**, bei der ihr Saints Row Third gewinnen konntet.
 Das Gewinnerlos hat die Nummer 21241, herzlichen Glückwunsch!
 
 *Die Gewinne sollten selbständig bei "Maze" abgeholt werden.*
 
 **Anleitung:**
+
 Für all diejenigen, die an einem der Rätsel verzweifelt sind, hier die Schritt für Schritt Anleitung:
 
 1. Zu aller erst musstet ihr den auf den Channel Weihnachtsspastis aufmerksam werden
