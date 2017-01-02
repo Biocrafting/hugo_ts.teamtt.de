@@ -42,13 +42,13 @@ Das Gewinnerlos hat die Nummer 21241, herzlichen Glückwunsch!
 
 Für all diejenigen, die an einem der Rätsel verzweifelt sind, hier die Schritt für Schritt Anleitung:
 
-1. Zu aller erst musstet ihr den auf den Channel Weihnachtsspastis aufmerksam werden
+1. Zu aller erst musstet ihr den auf den Channel Weihnachtsspastis aufmerksam werden [Bild](https://storage.biocrafting.net/f/826599080e/)
 
-2. In den Weihnachtsspastis Channel joinen, das Passwort konntet ihr im Banner finden (3314) 
+2. In den Weihnachtsspastis Channel joinen, das Passwort konntet ihr im Banner finden (3314) [Bild vom Banner](https://xenon.biocrafting.net/WinterBanner1_event.png)
 
-3. Dann gab euch der Weihnachtsmann die Aufgabe seine Elfe zu suchen, ihr konntet Trixi in dem Channel Fabrik, im Temporary Bereich finden
+3. Dann gab euch der Weihnachtsmann die Aufgabe seine Elfe zu suchen, ihr konntet Trixi in dem Channel Fabrik, im Temporary Bereich finden [Bild](https://storage.biocrafting.net/f/9caf2b01c5/)
 
-4. Wenn ihr dem Weihnachtsmann gesagt habt, dass seine Elfe Trixi heißt, bekamt ihr die Antwort, dass ihm das nicht eindeutig genug sei und es folgte ein kleiner Tipp
+4. Wenn ihr dem Weihnachtsmann gesagt habt, dass seine Elfe Trixi heißt, bekamt ihr die Antwort, dass ihm das nicht eindeutig genug sei und es folgte ein kleiner Tipp in Trixis beschreibung [Bild](https://storage.biocrafting.net/f/944a2cade0/)
 
 5. Um das Event abschließen zu können musstet ihr Trixi als Freund hinzufügen und ihre eindeutige ID dem Weihnachtsmann schicken
 
