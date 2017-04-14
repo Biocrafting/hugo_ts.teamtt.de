@@ -594,6 +594,14 @@ article .entry-content video.right {
 #sub-nav .social a.rss:hover {
     border: 1px solid #cf5d0f
 }
+#sub-nav .social a.eventpw {
+    background: url('/images/social/eventpw.png?1427305669') center no-repeat #142F7A;
+    border: 1px solid #142F7A
+}
+#sub-nav .social a.eventpw:hover {
+    background: url('/images/social/eventpw.png?1427305669') center no-repeat #cf5d0f;
+    border: 1px solid #cf5d0f
+}
 #pagenavi {
     padding: 20px 0;
     height: 20px;
