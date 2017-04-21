@@ -50,4 +50,4 @@ Diese Personen bekommen alle den "Champion!"-Rang. Dieses Event beinhaltete die 
 Die Eventgewinner von 2016, die an diesem Event nicht teilgenommen haben, verlieren vorerst ihren Rang. 
 Eine Liste der Leute, die dies betrifft: <br> https://paste.biocrafting.net/?23af02cb56465e0a#EiOAK8lGr9c7l4w21EDCAUrGJxUcLQEDK2A22svqsZM=
 
-Erweiterte Liste: <br> https://paste.biocrafting.net/?66ad1c17b0e00ff0#FCHL9Vrb3pXXminpCNp8m4NWw0Vlss76n1E33t1YJOs=
+Erweiterte Liste: <br> https://paste.biocrafting.net/?34121e95ee3bd72e#9eg8R3bWzN0E++rPaOU/mYWTlqSGQD8V03pGLDOP4w0=
