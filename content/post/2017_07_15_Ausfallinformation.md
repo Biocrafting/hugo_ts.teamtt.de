@@ -21,3 +21,7 @@ Folgende Dienste sind betroffen:
 
 Wir rechnen mit einer Downtime von ungefähr 30 Minuten.
 
+
+Update 15.07.2017 14:05
+
+Der Austausch wurde erfolgreich durchgeführt, alle Dienste werden in den nächsten 10 Minuten wieder hochgefahren.
