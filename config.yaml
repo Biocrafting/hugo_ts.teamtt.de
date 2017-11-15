@@ -10,7 +10,7 @@ author:
   email: "support@biocrafting.net"
 
 params:
-  description: "Die Newsseite fÃ¼r den Biocrafting-Teamspeak. Wenn du Fragen hast schick einfach eine E-Mail an support@biocrafting.net."
+  description: "Die Newsseite f«är den Biocrafting-Teamspeak. Wenn du Fragen hast schick einfach eine E-Mail an support@biocrafting.net."
 
   subscribe_rss: "/index.xml"
   facebook_user: "biocraftingnet"
