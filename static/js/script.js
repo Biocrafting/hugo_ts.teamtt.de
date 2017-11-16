@@ -7,6 +7,7 @@ var snowflakeSize = 10;
 var maxFlakes = 200;
 
 function setup() {
+    document.getElementsByClassName('mid-col')[0].id = "snowflake";
     let h = document.getElementById('snowflake').offsetHeight;
     let w = document.getElementById('snowflake').offsetWidth;
     can = createCanvas(w, h);
