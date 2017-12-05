@@ -13,8 +13,7 @@ body {
     font-family: "Nunito", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
     font-size: 13px;
-    background: #eee;
-    color: #666
+    color: #666;
 }
 @media screen and (max-width: 1440px) {
     body {
@@ -600,7 +599,8 @@ article .entry-content video.right {
     line-height: 20px;
     position: relative;
     border-top: 1px solid #fff;
-    border-bottom: 1px solid #ddd
+    border-bottom: 1px solid #ddd;
+    z-index: 2;
 }
 #pagenavi a:hover {
     text-decoration: underline
@@ -801,7 +801,7 @@ article .entry-content .video-container embed {
 }
 .post h1.title,
 .post .entry-content {
-    margin-left: 200px
+    margin-left: 200px;
 }
 @media screen and (max-width: 800px) {
     .post h1.title,
@@ -975,7 +975,8 @@ footer {
     padding: 15px 0;
     border-top: 1px solid #fff;
     text-align: center;
-    font-size: 0.9em
+    font-size: 0.9em;
+    z-index: 2;
 }
 article code,
 article pre {
@@ -1429,7 +1430,6 @@ figure.code .s1,
     border: 0;
     padding: 0;
     margin: 0;
-    vertical-align: top
 }
 .fancybox-image {
     max-width: 100%;
@@ -1579,9 +1579,8 @@ html {
     height: 100%
 }
 body {
-    background: #3D4349;
     font-family: "Nunito", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background: #142F7A;
+    background: #AB1616;
     height: 100%;
     color: #333;
     font-size: 11px
@@ -1602,7 +1601,7 @@ body {
 }
 #header #sub-nav {
     float: none;
-    position: relative
+    position: relative;
 }
 #header #sub-nav .social {
     float: none
@@ -1647,7 +1646,7 @@ body {
     right: 0;
     min-height: 100%;
     width: 77%;
-    background: white
+    background: rgb(201, 201, 201)
 }
 .container .mid-col #banner {
     width: 100%
@@ -1664,12 +1663,10 @@ body {
     padding: 0px 70px 0px 100px;
     max-width: 800px
 }
-.container .mid-col .mid-col-container #content {
-   /* width: 100%*/
-}
 .container .mid-col .mid-col-container #content article {
     border-top: none;
-    padding: 40px 0px
+    padding: 40px 0px;
+    z-index: 2;
 }
 .container .mid-col .mid-col-container #content article .title {
     margin-left: 0px;
@@ -1758,7 +1755,8 @@ body {
     transition: color 0.3s
 }
 .container .mid-col footer {
-    width: 100%
+    width: 100%;
+    z-index: 2;
 }
 .container .left-col:hover {
     opacity: 1
@@ -1773,7 +1771,7 @@ body {
     -moz-transition: all .2s ease-in;
     -o-transition: all .2s ease-in;
     -ms-transition: all .2s ease-in;
-    transition: all .2s ease-in
+    transition: all .2s ease-in;
 }
 .container .left-col .intrude-less {
     width: 80%
@@ -1794,12 +1792,12 @@ body {
     -webkit-border-radius: 50%
 }
 .container .left-col #header a {
-    color: #EFEFEF;
+    color: #000000;
     text-shadow: 0 1px #333;
     font-size: 2em;
 }
 .container .left-col #header a:hover {
-    color: #2571B8
+    color: #8F1B1D 
 }
 .container .left-col #header #sub-nav {
     margin-top: 10px
@@ -1871,3 +1869,15 @@ a:hover {
         float: none
     }
 }
+
+#logo {
+    width: 250px;
+}
+
+#sketch {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+

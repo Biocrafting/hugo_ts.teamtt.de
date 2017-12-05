@@ -1,5 +1,5 @@
 <div class="profilepic">
-	<a href="{{ .Site.BaseURL }}"><img src='https://filebase.biocrafting.net/generic/logo2.png' alt="Profile Picture" style="width: 160px;" /></a>
+	<a href="{{ .Site.BaseURL }}"><img id="logo" src='{{ .Site.BaseURL }}/uploads/logo_christ.png' alt="Profile Picture"/></a>
 </div>
 {{ partial "custom/header.html" . }}
 <nav id="main-nav">{{ partial "navigation.html" . }}</nav>
@@ -10,7 +10,7 @@
 		{{ end }}
 		{{ if $.Site.Params.facebook_user }}
 			<a class="facebook" href='http://www.facebook.com/{{ $.Site.Params.facebook_user }}' title="Facebook">Facebook</a>
-		{{ end }}
+		{{ end }}		
 		{{ if $.Site.Params.googleplus_user }}
 			<a class="google" href='https://plus.google.com/{{ $.Site.Params.googleplus_user }}' rel="author" title="Google+">Google+</a>
 		{{ end }}
@@ -24,7 +24,7 @@
 			<a class="coderwall" href='https://coderwall.com/{{ $.Site.Params.coderwall_user }}' title="Coderwall">Coderwall</a>
 		{{ end }}
 		{{ if and $.Site.Params.stackoverflow_user $.Site.Params.stackoverflow_user_id }}
-		  <a class="stackoverflow" href='http://stackoverflow.com/users/{{ $.Site.Params.stackoverflow_user_id }}/{{ $.Site.Params.stackoverflow_user }}' title="StackOverflow"></a>
+		<a class="stackoverflow" href='http://stackoverflow.com/users/{{ $.Site.Params.stackoverflow_user_id }}/{{ $.Site.Params.stackoverflow_user }}' title="StackOverflow"></a>
 		{{ end }}
 		{{ if $.Site.Params.linkedin_user }}
 			<a class="linkedin" href='http://www.linkedin.com/in/{{ $.Site.Params.linkedin_user }}' title="LinkedIn">LinkedIn</a>
@@ -47,10 +47,10 @@
 		{{ if $.Site.Params.instagram_user }}
 			<a class="instagram" href='https://instagram.com/{{ $.Site.Params.instagram_user }}' title="Instagram">Instagram</a>
 		{{ end }}
-    	{{ if $.Site.Params.behance_user }}
+		{{ if $.Site.Params.behance_user }}
 			<a class="behance" href='https://www.behance.net/{{ $.Site.Params.behance_user }}' title="Behance">Behance</a>
-		{{ end }}
-    	{{ if $.Site.Params.subscribe_rss }}
+		{{ end }}    	
+		{{ if $.Site.Params.subscribe_rss }}
 			<a class="rss" href='{{ $.Site.Params.subscribe_rss }}' title="RSS">RSS</a>
 		{{ end }}
 	</div>
