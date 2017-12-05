@@ -13,8 +13,7 @@ body {
     font-family: "Nunito", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
     font-size: 13px;
-    background: #eee;
-    color: #666
+    color: #666;
 }
 @media screen and (max-width: 1440px) {
     body {
@@ -1647,7 +1646,7 @@ body {
     right: 0;
     min-height: 100%;
     width: 77%;
-    background: rgb(173, 173, 173)
+    background: rgb(201, 201, 201)
 }
 .container .mid-col #banner {
     width: 100%
@@ -1772,7 +1771,7 @@ body {
     -moz-transition: all .2s ease-in;
     -o-transition: all .2s ease-in;
     -ms-transition: all .2s ease-in;
-    transition: all .2s ease-in
+    transition: all .2s ease-in;
 }
 .container .left-col .intrude-less {
     width: 80%
@@ -1798,7 +1797,7 @@ body {
     font-size: 2em;
 }
 .container .left-col #header a:hover {
-    color: #8F1B1D
+    color: #8F1B1D 
 }
 .container .left-col #header #sub-nav {
     margin-top: 10px

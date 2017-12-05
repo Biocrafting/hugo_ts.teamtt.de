@@ -13,7 +13,7 @@ function setup() {
     can = createCanvas(w, h);
     can.parent('snowflake');
     can.id('sketch');
-    frameRate(30);
+    frameRate(60);
 }
 
 function draw() {
