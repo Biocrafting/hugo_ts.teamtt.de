@@ -8,6 +8,9 @@
 		{{ if $.Site.Author.email }}
 			<a class="email" href='mailto:{{ $.Site.Author.email }}' title="Email">Email</a>
 		{{ end }}
+		{{ if $.Site.Params.teamspeak3 }}
+			<a class="ts" href='ts3server://{{ $.Site.Params.teamspeak3 }}' title="TS3">Teamspeak 3</a>
+		{{ end }}			
 		{{ if $.Site.Params.facebook_user }}
 			<a class="facebook" href='http://www.facebook.com/{{ $.Site.Params.facebook_user }}' title="Facebook">Facebook</a>
 		{{ end }}		
@@ -52,6 +55,6 @@
 		{{ end }}    	
 		{{ if $.Site.Params.subscribe_rss }}
 			<a class="rss" href='{{ $.Site.Params.subscribe_rss }}' title="RSS">RSS</a>
-		{{ end }}
+		{{ end }}	
 	</div>
 </nav>
