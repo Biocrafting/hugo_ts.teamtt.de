@@ -19,4 +19,4 @@ Wir arbeiten als Team. Ich bespreche mich mit ihnen, hole Meinungen ein und das 
 ## Symbol und Namensgebung
 Wir erkennen natürlich das "Admin" und "Moderator" gerade im Discord und Teamspeak ein etabliertes System ist. Um zu vermeiden das ein Moderator zu wenig zugetraut wird, haben wir uns für das entsprechende rote S entschieden. Allgemein wird das erkannt als "jemand der mir helfen kann".
 
-![Ranks](/static/uploads/rankupdate_2020_04_20.png "Aktuelle Struktur")
+![Ranks](/uploads/rankupdate_2020_04_20.png "Aktuelle Struktur")
