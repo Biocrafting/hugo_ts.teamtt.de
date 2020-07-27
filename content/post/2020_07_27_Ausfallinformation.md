@@ -1,7 +1,7 @@
 ---
 title: "Ausfallinformation"
 date: 2020-07-27T08:51:06+02:00
-draft: true
+draft: false
 ---
 
 
