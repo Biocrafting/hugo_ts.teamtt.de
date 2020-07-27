@@ -7,9 +7,9 @@ draft: false
 
 Moin,
 
-aufgrund eines Festplattendefekts muss unser Haupt-Server am 29.07.2020 15 Uhr für den Austausch heruntergefahrn werden.
+aufgrund eines Festplattendefekts muss unser Haupt-Server am 29.07.2020 15 Uhr für den Austausch heruntergefahren werden.
 
 In der Zeit sind so gut wie alle Dienste nicht erreichbar.
 
 
-Wir rechnen mit einer Downtime von ungef�hr einer Stunde.
+Wir rechnen mit einer Downtime von ungefähr einer Stunde.
