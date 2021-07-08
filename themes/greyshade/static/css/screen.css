@@ -600,6 +600,14 @@ article .entry-content video.right {
 #sub-nav .social a.ts:hover {
     border: 1px solid rgb(100, 100, 100);
 }
+#sub-nav .social a.discord {
+    background: url('/images/social/discord.png?1427305669') center no-repeat #7289da;
+    border: 1px solid #99aab5; 
+}
+#sub-nav .social a.discord:hover {
+    border: 1px solid #2c2f33;
+}
+
 #pagenavi {
     padding: 20px 0;
     height: 20px;
